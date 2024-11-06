@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="KreditzAutomation">
+    <test name="HomePageTests">
+        <classes>
+            <class name="tests.HomePageTests"/>
+        </classes>
+    </test>
+    <test name="AboutUsPageTests">
+        <classes>
+            <class name="tests.AboutUsPageTests"/>
+        </classes>
+    </test>
+    <test name="ContactUsPageTests">
+        <classes>
+            <class name="tests.ContactUsPageTests"/>
+        </classes>
+    </test>
+</suite>
